@@ -1,0 +1,81 @@
+img {
+    display: inline-block;
+    border: 1px solid #000;}
+
+.d-block {
+    display: inline;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #730988;
+    padding: 300px;
+}
+
+.main {
+    width: 100%;
+    padding: 0 200px 0 200px;
+    margin: auto 0;
+}
+
+a.btn.btn-primary.btn-lg.active {
+    background-color: #730988;
+    text-decoration: none;
+    border: 0px; 
+}
+
+.nav-link {
+    color: #000;
+    font-weight: bold;
+}
+
+.nav-link.disabled {
+    color: #730988;
+}
+
+.jumbotron {
+    background-color: #474747;
+    color: #fff;
+}
+
+.lead {
+    font-size: 1.15rem;
+}
+
+.display-4 {
+    padding: 0px; 
+}
+
+h1, h2, h3 {
+    padding: 0 200px; 
+}
+
+.col-beastie {
+    margin: 0px -4px; 
+}
+
+.col {
+    margin: 0px -2px;
+    padding: 0px;
+    text-align: left;
+}
+
+.col-5 {
+    margin: 0px -4px; 
+}
+
+.pics-n-stuff {
+    padding: 0 0 0 120px; 
+    margin: 0 auto; 
+}
+
+.col-4-can {
+    margin: 0;
+}
+
+.col-4-we {
+    margin: 0 330px 0 300px;
+}   
+
+.col-4-kick {
+    margin: 0 250px 0 90px;
+}
