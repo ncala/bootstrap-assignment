@@ -53,29 +53,20 @@ h1, h2, h3 {
     margin: 0px -4px; 
 }
 
-.col {
-    margin: 0px -2px;
+.col-sm {
+    margin: 0px -4px;
     padding: 0px;
-    text-align: left;
 }
 
-.col-5 {
-    margin: 0px -4px; 
+.col-md {
+    margin: 0px -4px 0px -80px;
+    padding: 0px;
 }
 
 .pics-n-stuff {
-    padding: 0 0 0 120px; 
+    width: 1050px;
+    padding: 0, 0, 0, 0px; 
     margin: 0 auto; 
 }
 
-.col-4-can {
-    margin: 0;
-}
 
-.col-4-we {
-    margin: 0 330px 0 300px;
-}   
-
-.col-4-kick {
-    margin: 0 250px 0 90px;
-}
